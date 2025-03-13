@@ -1,7 +1,7 @@
 # CognitiveSearch
 Azure Cognitive Search, projeto feito na DIO, para a indexação e consulta de dados com IA Search
 
-## Passo a passo para configurar uma pesquisa
+## Como configurar uma pesquisa
 
 1. **Obter dados de uma ou mais fontes** (bancos de dados, arquivos, APIs etc.).  
 2. **Aplicar inteligência artificial** para enriquecer os dados.  
